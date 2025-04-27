@@ -2,7 +2,6 @@
 
 A responsive, modern landing page for a SaaS product built with React and TailwindCSS. Features a clean design, dark/light theme support, and smooth animations.
 
-![CloudFlow Landing Page](screenshot.png)
 
 ## 🌟 Features
 
